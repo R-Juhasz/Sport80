@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "sport80-e6f93"
+  },
+  "dataconnectEmulatorConfig": {
+    "postgres": {
+      "localConnectionString": "postgresql://localhost:5432?sslmode=disable"
+    }
+  }
+}
