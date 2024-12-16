@@ -69,25 +69,6 @@ Create events, assign participants, and track event schedules.
 Performance Insights
 
 Monitor athletes' stats and visualize trends.
-Project Structure
-plaintext
-Copy code
-Sport80/
-├── lib/
-│   ├── main.dart          # Entry point
-│   ├── screens/           # All screens (Home, Runs, Events)
-│   ├── models/            # Data models for events and runs
-│   ├── providers/         # Riverpod providers
-│   ├── services/          # Firebase and API services
-│   ├── utils/             # Utility classes and constants
-│   └── widgets/           # Reusable UI components
-├── assets/
-│   ├── images/            # Logos and icons
-│   └── screenshots/       # Screenshots for documentation
-├── android/               # Android-specific code
-├── ios/                   # iOS-specific code
-├── pubspec.yaml           # Flutter dependencies
-└── README.md              # Project documentation
 Contributing
 Contributions are welcome! Follow these steps to contribute:
 
