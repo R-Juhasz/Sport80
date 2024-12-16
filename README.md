@@ -117,8 +117,26 @@ Open a pull request.
 License
 This project is licensed under the MIT License. See LICENSE for details.
 
+
+
 Contact
 For any questions or feedback:
 
 Developer: Ryan Juhasz
 GitHub: R-Juhasz
+
+
+![login](https://github.com/user-attachments/assets/5b18d990-a502-46c5-b383-3412ff765036)
+
+![home](https://github.com/user-attachments/assets/7c8530c1-0411-480a-8992-9aac142c7976)
+
+![events](https://github.com/user-attachments/assets/35b2467b-0180-47d4-a05b-b5cc57ae7f00)
+
+![run1](https://github.com/user-attachments/assets/1918e2a3-ebe8-4e66-bed5-9ca0d40a59d9)
+
+![run2](https://github.com/user-attachments/assets/d8672558-cbae-4791-a635-b0906671b4ae)
+
+![community](https://github.com/user-attachments/assets/dcf78a89-ae5d-449d-aa79-4eb8eddc72dd)
+
+![hamburger](https://github.com/user-attachments/assets/ac362159-5b55-4711-9bef-e070265503e5)
+
