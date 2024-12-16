@@ -2,35 +2,63 @@ Sport80
 A Track and Field Application built using Dart, Flutter, and Firebase. Designed to help athletes and event managers efficiently track runs, manage events, and monitor performance. Originally a project for a company, it remains unfinished but serves as a strong foundation for future sports tracking tools.
 
 Features
+
 📊 Run Tracking: Log and monitor athlete runs with detailed stats.
+
 📅 Event Management: Create, update, and manage track and field events seamlessly.
+
 📈 Performance Monitoring: Track individual performance over time.
+
 🔄 Real-time Updates: Firebase-powered real-time data synchronization.
+
 📱 Cross-Platform: Built with Flutter, works on Android, iOS, and Web.
+
 🔐 Authentication: Secure login and registration with Firebase Authentication.
+
 Technologies Used
+
 Frontend: Dart, Flutter
+
 Backend: Firebase Firestore (Database), Firebase Authentication
+
 Storage: Firebase Storage
+
 State Management: Flutter Riverpod
+
 Maps Integration: Google Maps API
+
 Dependencies:
+
 firebase_core
+
 firebase_auth
+
 cloud_firestore
+
 firebase_storage
+
 flutter_riverpod
+
 google_maps_flutter
+
 location
+
 image_picker
+
 Getting Started
+
 Follow these steps to set up and run the project locally:
 
 Prerequisites
+
 Install Flutter SDK: Flutter Installation Guide
+
 Set up Firebase for Flutter: Firebase Setup Guide
+
 Ensure you have Android Studio or VS Code set up for Flutter development.
+
 Installation
+
 Clone the Repository
 
 bash
