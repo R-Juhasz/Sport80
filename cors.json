@@ -1,0 +1,9 @@
+[
+  {
+    "origin": ["http://localhost:56594"],
+    "responseHeader": ["Content-Type", "Access-Control-Allow-Origin"],
+    "method": ["GET", "POST", "HEAD", "DELETE", "PUT", "OPTIONS"],
+    "maxAgeSeconds": 3600
+  }
+]
+
